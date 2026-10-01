@@ -21,7 +21,7 @@ Phần 2: Tạo và Chỉnh sửa Nội dung Đa phương tiện (45 phút)
     + Mô tả: Tạo video ngắn (30 giây) giới thiệu lợi ích công nghệ số, sử dụng tài liệu miễn phí bản quyền.
     + Kết quả mong đợi: File MP4 video ngắn, mô tả trên GitHub với giấy phép CC BY.
   + Danh sách file:
-    + infographic.png (  Thiết kế :  Canva AI , Ảnh: Unsplash(CC0) )
+    + infographic.png (  Thiết kế :  Canva AI , Nguồn ảnh : Unsplash(CC0) , giấy phép : CC BY 4.0)
     + video.mp4 ( Video tạo bởi CapCut, tài liệu từ Pexels/FreeSound (CC0) )
 
 Phần 3: Tạo và Quản lý Mã Nguồn (45 phút)
